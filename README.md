@@ -120,5 +120,3 @@ db.users.updateOne({ email: "admin@example.com" }, { $set: { role: "admin" } })
 Once deployed, update the Demo and GitHub links at the top of this README
 and in your team's Kanban/workspace board so your mentor can review the project.
 
-## License
-This project is provided for educational purposes.
